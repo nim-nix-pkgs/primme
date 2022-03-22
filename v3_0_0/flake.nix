@@ -9,7 +9,7 @@
   
   inputs.src-primme-v3_0_0.flake = false;
   inputs.src-primme-v3_0_0.owner = "jxy";
-  inputs.src-primme-v3_0_0.ref   = "refs/tags/v3.0.0";
+  inputs.src-primme-v3_0_0.ref   = "v3_0_0";
   inputs.src-primme-v3_0_0.repo  = "primme";
   inputs.src-primme-v3_0_0.type  = "github";
   
