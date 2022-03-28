@@ -11,7 +11,6 @@
   inputs.src-primme-master.ref   = "refs/heads/master";
   inputs.src-primme-master.owner = "jxy";
   inputs.src-primme-master.repo  = "primme";
-  inputs.src-primme-master.dir   = "";
   inputs.src-primme-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

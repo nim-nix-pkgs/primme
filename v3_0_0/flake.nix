@@ -11,7 +11,6 @@
   inputs.src-primme-v3_0_0.ref   = "refs/tags/v3.0.0";
   inputs.src-primme-v3_0_0.owner = "jxy";
   inputs.src-primme-v3_0_0.repo  = "primme";
-  inputs.src-primme-v3_0_0.dir   = "";
   inputs.src-primme-v3_0_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
